@@ -1,0 +1,7 @@
+D:\Studying\GREENWICH\RESOURCES & MATERIALS\PROGRAMMING\projects\assignment1\RealAssignmentOne\RealAssignmentOne\obj\Debug\RealAssignmentOne.csprojAssemblyReference.cache
+D:\Studying\GREENWICH\RESOURCES & MATERIALS\PROGRAMMING\projects\assignment1\RealAssignmentOne\RealAssignmentOne\obj\Debug\RealAssignmentOne.csproj.CoreCompileInputs.cache
+D:\Studying\GREENWICH\RESOURCES & MATERIALS\PROGRAMMING\projects\assignment1\RealAssignmentOne\RealAssignmentOne\bin\Debug\RealAssignmentOne.exe.config
+D:\Studying\GREENWICH\RESOURCES & MATERIALS\PROGRAMMING\projects\assignment1\RealAssignmentOne\RealAssignmentOne\bin\Debug\RealAssignmentOne.exe
+D:\Studying\GREENWICH\RESOURCES & MATERIALS\PROGRAMMING\projects\assignment1\RealAssignmentOne\RealAssignmentOne\bin\Debug\RealAssignmentOne.pdb
+D:\Studying\GREENWICH\RESOURCES & MATERIALS\PROGRAMMING\projects\assignment1\RealAssignmentOne\RealAssignmentOne\obj\Debug\RealAssignmentOne.exe
+D:\Studying\GREENWICH\RESOURCES & MATERIALS\PROGRAMMING\projects\assignment1\RealAssignmentOne\RealAssignmentOne\obj\Debug\RealAssignmentOne.pdb
