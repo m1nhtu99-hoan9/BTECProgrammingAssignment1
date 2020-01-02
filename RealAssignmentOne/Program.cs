@@ -10,12 +10,12 @@ namespace InterestCalculator
             double prin;
             double rate;
             int year;
-
+            
+            
             prin = Double.Parse(Prompt("Original Principle:"));
             rate = Double.Parse(Prompt("Interest Rate (%):"));
             rate = rate / 100; // this is an assignment expression 
             year = Int32.Parse(Prompt("Number of Years:"));
-
             CheckValidity(prin, rate, year);
 
             Console.WriteLine("Print out the sequence of balance over the time period of {0} year(s)--", year);
@@ -58,7 +58,7 @@ namespace InterestCalculator
         }
 
         //this procedure checks if input is legitimate
-        //if the input is illegitimate, the program end
+        //if the input is illegitimate, the program ends
         static void CheckValidity(double _prin, double _rate, int _year)
         {
             bool _isPrinInvalid = _prin < 0;

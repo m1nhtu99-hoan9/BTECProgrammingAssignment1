@@ -1,0 +1,6 @@
+C:\Users\Thomas Hoang\Source\Repos\mnhthng-thms\BTECProgrammingAssignment1\RealAssignmentOne\bin\Debug\RealAssignmentOne.exe.config
+C:\Users\Thomas Hoang\Source\Repos\mnhthng-thms\BTECProgrammingAssignment1\RealAssignmentOne\bin\Debug\RealAssignmentOne.exe
+C:\Users\Thomas Hoang\Source\Repos\mnhthng-thms\BTECProgrammingAssignment1\RealAssignmentOne\bin\Debug\RealAssignmentOne.pdb
+C:\Users\Thomas Hoang\Source\Repos\mnhthng-thms\BTECProgrammingAssignment1\RealAssignmentOne\obj\Debug\GCH0710.1_Assignment1_HoangMinhTu.csprojAssemblyReference.cache
+C:\Users\Thomas Hoang\Source\Repos\mnhthng-thms\BTECProgrammingAssignment1\RealAssignmentOne\obj\Debug\RealAssignmentOne.exe
+C:\Users\Thomas Hoang\Source\Repos\mnhthng-thms\BTECProgrammingAssignment1\RealAssignmentOne\obj\Debug\RealAssignmentOne.pdb
