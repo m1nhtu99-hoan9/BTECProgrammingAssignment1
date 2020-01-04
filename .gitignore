@@ -1,7 +1,7 @@
 # Visual Studio files
-obj/
-[Bb]in
-[Dd]ebug*/
+RealAssignmentOne/obj/
+RealAssignmentOne/[Bb]in
+RealAssignmentOne/[Dd]ebug*/
 
 # Office Temp Files
-~$*
+RealAssignmentOne/~$*

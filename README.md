@@ -9,8 +9,8 @@ Simple CLI Interest Calculator written in C# as a demo for procedural programmin
 ## Usage
 
 1. - Clone using Git command: `git clone https://github.com/mnhthng-thms/ TECProgrammingAssignment1.git`
-   - Or clone using GitHub Desktop (Windows)
-     > Github allows cloning remote git directly into Visual Studio
+   - Or clone using GitHub Desktop **(Windows)**
+     > **(Windows)** Github allows cloning remote git directly into Visual Studio
 2. Open this project by opening `GCH0710.1_Assignment1_HoangMinhTu.sln` using Visual Studio
 3. Build this app by yourself and run
 
