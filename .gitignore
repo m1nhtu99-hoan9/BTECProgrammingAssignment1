@@ -1,0 +1,7 @@
+# Visual Studio files
+obj/
+[Bb]in
+[Dd]ebug*/
+
+# Office Temp Files
+~$*
